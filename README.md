@@ -1,16 +1,57 @@
-## Hi there 👋
+# 👋 Hello, I'm Ali
 
-<!--
-**AliELawad/AliELawad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 **Cybersecurity Researcher | System Analyst | IT Student**
 
-Here are some ideas to get you started:
+Driven by a lifelong passion for computers, I specialize in understanding and securing complex digital systems.  
+My focus lies in analyzing vulnerabilities, strengthening system defenses, and continuously exploring how technology works at its core.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+- 💻 I’ve been fascinated by computers since an early age — that curiosity evolved into a deep technical discipline.
+- 🎯 Focused on **cybersecurity**, **network defense**, and **ethical hacking**.
+- ⚙️ Currently studying **Information Technology**, sharpening both practical and theoretical skills.
+- 🧩 Passionate about solving complex problems and uncovering how systems interact behind the scenes.
+
+---
+
+## 🧰 Technical Stack
+**Languages:** Python, C, JavaScript  
+**Tools & Platforms:** Linux, Nmap, Wireshark, Burp Suite, Metasploit  
+**Concepts:** Networking, System Security, Web Application Security, Penetration Testing  
+
+---
+
+## 🚀 Current Focus
+- Enhancing my expertise in **offensive and defensive security**.  
+- Building small-scale **security lab projects** to simulate real-world attacks and mitigations.  
+- Diving deeper into **malware analysis** and **threat intelligence**.
+
+---
+
+## 📂 Featured Projects
+- 🔎 **Network Monitor Tool** – Analyzes real-time network packets for suspicious activity.  
+- 🧱 **Mini Firewall Script (Python)** – Simple IP filtering for local network testing.  
+- 🕵️‍♂️ **Web Vulnerability Scanner** – Scans and reports common OWASP Top 10 issues.
+
+*(More projects coming soon...)*
+
+---
+
+## 🧭 Goals
+- Contribute to **open-source security projects**.  
+- Obtain **OSCP** and **CompTIA Security+** certifications.  
+- Build a strong foundation for a future career in **Cyber Defense and Research**.
+
+---
+
+## 📫 Connect
+- 📧 Email: [your.email@example.com]  
+- 💼 LinkedIn: [linkedin.com/in/yourprofile]  
+- 🌐 GitHub: [github.com/yourusername]
+
+---
+
+> “The more I understand computers, the more I understand people.”
+>  
+> — Ali
