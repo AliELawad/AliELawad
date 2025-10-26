@@ -67,10 +67,9 @@ I'm currently learning and practicing in the following areas:
 - **Linux Security & Hardening**
 
 ---
-
-> “Security is not a product — it’s a continuous process.”  
-> — *Bruce Schneier*
-
+> “The more I understand computers, the more I understand people.”
+>  
+> — Ali
 ---
 
 ## 📫 Connect
