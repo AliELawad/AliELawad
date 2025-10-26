@@ -58,8 +58,6 @@ I learn best by experimenting — breaking things, fixing them, and automating w
 &nbsp;
 [![Pinned Repo](https://github-readme-stats.vercel.app/api/pin/?username=AliFarouk&repo=port-analyzer&bg_color=0d1116&title_color=0E7FC0&text_color=a4aacb&icon_color=00C853)](https://github.com/AliFarouk/port-analyzer)
 
-*(Replace with your real repo names when ready)*
-
 ---
 
 ## 📈 Stats
