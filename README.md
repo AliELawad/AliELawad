@@ -2,37 +2,37 @@
 
 🔐 **Cybersecurity Researcher | System Analyst | IT Student**
 
-Driven by a lifelong passion for computers, I specialize in understanding and securing complex digital systems.  
-My focus lies in analyzing vulnerabilities, strengthening system defenses, and continuously exploring how technology works at its core.
+Fueled by a lifelong passion for computers, I specialize in understanding and securing complex digital systems.  
+My main focus is on identifying vulnerabilities, strengthening defenses, and exploring how technology works at its core.
 
 ---
 
 ## 🧠 About Me
-- 💻 I’ve been fascinated by computers since an early age — that curiosity evolved into a deep technical discipline.
-- 🎯 Focused on **cybersecurity**, **network defense**, and **ethical hacking**.
-- ⚙️ Currently studying **Information Technology**, sharpening both practical and theoretical skills.
-- 🧩 Passionate about solving complex problems and uncovering how systems interact behind the scenes.
+- 💻 My curiosity about computers began at an early age and grew into a strong technical discipline.  
+- 🎯 Focused on **cybersecurity**, **network defense**, and **ethical hacking**.  
+- ⚙️ Currently studying **Information Technology**, developing both practical and theoretical skills.  
+- 🧩 Passionate about solving complex problems and discovering how systems interact behind the scenes.
 
 ---
 
 ## 🧰 Technical Stack
 **Languages:** Python, C, JavaScript  
 **Tools & Platforms:** Linux, Nmap, Wireshark, Burp Suite, Metasploit  
-**Concepts:** Networking, System Security, Web Application Security, Penetration Testing  
+**Core Concepts:** Networking, System Security, Web Application Security, Penetration Testing
 
 ---
 
 ## 🚀 Current Focus
-- Enhancing my expertise in **offensive and defensive security**.  
-- Building small-scale **security lab projects** to simulate real-world attacks and mitigations.  
-- Diving deeper into **malware analysis** and **threat intelligence**.
+- Enhancing my skills in **offensive and defensive security**.  
+- Building small **security lab projects** to simulate real-world attacks and mitigations.  
+- Deepening my knowledge in **malware analysis** and **threat intelligence**.
 
 ---
 
 ## 📂 Featured Projects
 - 🔎 **Network Monitor Tool** – Analyzes real-time network packets for suspicious activity.  
-- 🧱 **Mini Firewall Script (Python)** – Simple IP filtering for local network testing.  
-- 🕵️‍♂️ **Web Vulnerability Scanner** – Scans and reports common OWASP Top 10 issues.
+- 🧱 **Mini Firewall Script (Python)** – Implements simple IP filtering for local network testing.  
+- 🕵️‍♂️ **Web Vulnerability Scanner** – Detects and reports common OWASP Top 10 vulnerabilities.
 
 *(More projects coming soon...)*
 
@@ -40,8 +40,8 @@ My focus lies in analyzing vulnerabilities, strengthening system defenses, and c
 
 ## 🧭 Goals
 - Contribute to **open-source security projects**.  
-- Obtain **OSCP** and **CompTIA Security+** certifications.  
-- Build a strong foundation for a future career in **Cyber Defense and Research**.
+- Earn **OSCP** and **CompTIA Security+** certifications.  
+- Build a solid foundation for a career in **Cyber Defense and Research**.
 
 ---
 
@@ -52,6 +52,5 @@ My focus lies in analyzing vulnerabilities, strengthening system defenses, and c
 
 ---
 
-> “The more I understand computers, the more I understand people.”
->  
-> — Ali
+> “The more I understand computers, the more I understand people.”  
+> — **Ali**
