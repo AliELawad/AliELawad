@@ -6,7 +6,7 @@
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/ali-farouk)
 &nbsp;
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-%230A0A0A.svg?&style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/YourProfile)
+[![TryHackMe]([https://img.shields.io/badge/TryHackMe-%230A0A0A.svg?&style=for-the-badge&logo=tryhackme&logoColor=red](https://tryhackme.com/p/AliF))](https://tryhackme.com/p/YourProfile)
 &nbsp;
 [![Twitter](https://img.shields.io/badge/Twitter-14171A?logo=x&style=for-the-badge)](https://twitter.com/YourHandle)
 
