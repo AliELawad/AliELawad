@@ -14,12 +14,11 @@
 
 # 👋 Hi, I'm Ali Farouk
 
-I'm a **Cybersecurity student** and a lifelong **computer enthusiast**.  
-Since a young age, I’ve been fascinated by how computers work — from hardware to code, and from systems to networks.  
-That passion naturally led me into the world of **cybersecurity**, where curiosity meets logic and creativity.  
+I'm a **Cybersecurity student** and a passionate **computer enthusiast**.  
+My curiosity for how systems, networks, and code work continues to grow every day — it’s what drives me to explore, learn, and build.  
+I’m deeply fascinated by the intersection of **technology, logic, and security**, and I enjoy spending time experimenting, learning, and creating tools that make systems more secure.  
 
-I enjoy learning by doing — breaking things, fixing them, and automating what I learn along the way.  
-💻 Computers aren’t just tools for me — they’re a universe I love exploring.
+💻 For me, computers and cybersecurity aren’t just interests — they’re an ongoing journey of discovery.
 
 ---
 
@@ -33,10 +32,12 @@ I enjoy learning by doing — breaking things, fixing them, and automating what 
 
 ## 🧰 Toolbox
 
-**Languages:** Python, Bash  
-**Tools:** Nmap, Wireshark, Burp Suite, Metasploit (learning)  
-**Platforms:** Linux (Kali, Ubuntu), Windows  
-**Dev Environment:** VSCode, Git, Docker
+| Category | Tools |
+|-----------|--------|
+| 🐍 **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)&nbsp; ![Bash](https://img.shields.io/badge/-Bash-121011?logo=gnu-bash&logoColor=white) |
+| 🛠️ **Security Tools** | ![Nmap](https://img.shields.io/badge/-Nmap-00457C?logo=Wireshark&logoColor=white)&nbsp; ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white)&nbsp; ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-F36C3D?logo=burpsuite&logoColor=white)&nbsp; ![Metasploit](https://img.shields.io/badge/-Metasploit-000000?logo=metasploit&logoColor=white) |
+| 💻 **Platforms** | ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)&nbsp; ![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white) |
+| ⚙️ **Dev Environment** | ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white)&nbsp; ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)&nbsp; ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) |
 
 ---
 
